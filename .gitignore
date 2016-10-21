@@ -1,0 +1,11 @@
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+*Bak
+*BAK
+.DS_Store
+/build
+/captures
+/imooc_changeskin
+/imooc_changeskin/*
